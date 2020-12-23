@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\obj\Debug\lab1_MarkupCompile.cache
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\obj\Debug\lab1_MarkupCompile.lref
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\obj\Debug\lab1.g.resources
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\obj\Debug\Window1.g.cs
+C:\Users\user\Desktop\all\ТГПУ\5й семестр\Практикум по методам программирования\lab1\lab1\obj\Debug\Window1.baml
